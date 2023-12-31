@@ -1,5 +1,3 @@
-import { Routes, Route } from "react-router-dom";
-
 import {
   Home,
   Explore,
@@ -47,5 +45,3 @@ const App = () => {
     </main>
   );
 };
-
-export default App;
