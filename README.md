@@ -88,7 +88,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-**Use the below code to directly land on the home page**
+**Use the below code on App.tsx file to directly land on the home page**
 ```App.tsx
 import { Routes, Route, Navigate } from "react-router-dom";
 import { useEffect } from "react";
